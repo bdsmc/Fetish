@@ -2,31 +2,16 @@
 fetish
 ======
 
-*BDSM-FETISH is finished as an altcoin, so one last throw of the dice, and the view is change it back to "fetish" and forget about its once sister coin, BDSM. Fetish was more popular anyway.*
-
------
-
-Swap Details
-============
-
-Details     | Value
--------- | ---
-Coins minted for  swap | 400,000
-Coins mined    | 140,00
-Total     | 540,000
 
 
 
------
 
 Nova Exchange BTC - FETSH
 =========================
 
 [Nova Exchange](https://novaexchange.com/market/BTC_FETSH/)
 
-Alas,  Nova is closing, and  no  deposits are permitted.
 
-Good luck to them.
 
 -----
 
@@ -45,12 +30,7 @@ Explorer
 
 -----
 
-Web
-===
 
-[www.fetishx.info](http://fetishx.info)
-
------
 
 
 Specifications
