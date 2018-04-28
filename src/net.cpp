@@ -1140,32 +1140,12 @@ void MapPort()
 // The second name should resolve to a list of seed addresses. 
 static const char *strDNSSeed[][2] = {
     {"45.58.48.93", "45.58.48.93"},
-    {"104.128.239.216", "104.128.239.216"},
     {"45.76.191.103", "45.76.191.103"},
-    {"104.140.105.42", "104.140.105.42"},
-    {"104.140.105.43", "104.140.105.43"},
-    {"104.140.105.44", "104.140.105.44"},
-    {"104.140.105.45", "104.140.105.45"},
-    {"node1.0-5.info", "node1.0-5.info"},
-    {"node2.0-5.info", "node2.0-5.info"},
-    {"node3.0-5.info", "node3.0-5.info"},
-    {"node4.0-5.info", "node4.0-5.info"},
-    {"node5.0-5.info", "node5.0-5.info"},
-    {"node6.0-5.info", "node6.0-5.info"},
-    {"node7.0-5.info", "node7.0-5.info"},
-    {"node8.0-5.info", "node8.0-5.info"},
-    {"node9.0-5.info", "node9.0-5.info"},
-    {"node10.0-5.info", "node10.0-5.info"},
-    {"node11.0-5.info", "node11.0-5.info"},
-    {"node12.0-5.info", "node12.0-5.info"},
-    {"dns.0-5.info", "dns.0-5.info"},
-    {"dns1.0-5.info", "dns1.0-5.info"},
-    {"dns2.0-5.info", "dns2.0-5.info"},
-    {"dns3.0-5.info", "dns3.0-5.info"},
-    {"dns4.0-5.info", "dns4.0-5.info"},
-    {"dns5.0-5.info", "dns5.0-5.info"},
-    {"dns6.0-5.info", "dns6.0-5.info"},
-    {"52.33.12.95", "52.33.12.95"}
+    {"45.76.47.47", "45.76.47.47"},
+    {"node1.9078.ga.", "node1.9078.ga"},
+    {"node2.9078.ga", "node2.9078.ga"},
+    {"node.9078.ga", "node.9078.ga"}
+    
 };
 
 void ThreadDNSAddressSeed(void* parg)
