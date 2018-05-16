@@ -3,7 +3,15 @@ fetish
 ======
 
 
+Possible Plan
+======
 
+Switch fetish to an ERC20 token to make for more reliable connections and secure the network. This would remove PoS, although users tend not to stake alts any longer. 
+
+A swap would of course need to take place.
+
+
+-----
 
 
 Nova Exchange BTC - FETSH
